@@ -1,4 +1,4 @@
-#include "a3144_driver.h"
+#include "a3144.h"
 #include <stdint.h>
 #include <stdbool.h>
 //Obtains frequency by getting the time between rising edges'
