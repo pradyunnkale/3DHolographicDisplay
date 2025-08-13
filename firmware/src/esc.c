@@ -1,4 +1,5 @@
 #include "esc.h"
+
 //Initialize for PWM output
 int8_t esc_init(void){
     PWM_INIT();
