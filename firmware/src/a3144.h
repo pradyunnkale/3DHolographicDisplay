@@ -9,3 +9,4 @@
 
 float get_frequency(void);
 float frequency_to_rpm(float frequency, int pulses_per_revolution);
+float get_current_angle(float frequency);
